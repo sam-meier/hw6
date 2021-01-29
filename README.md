@@ -18,7 +18,7 @@ Previous searches are saved in localStorage and the 5 most recent searches are a
 * Bootstrap API
 * Moment.js API
 
-
+[Weather Dashboard](https://sam-meier.github.io/)
 ![screenshot](assets/images/hw6_screenie.png)
 
 ## Contribution
